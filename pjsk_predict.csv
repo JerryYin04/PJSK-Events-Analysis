@@ -1,0 +1,13 @@
+﻿id,chapter,title,start_at(JST),end_at(JST),event_type,main_chara,chara_type,attr,pt_lines_1,pt_lines_10,pt_lines_100,pt_lines_1000,pt_lines_100000
+182,-,君と繋ぐHeart Beat,2025/10/11 15:00,2025/10/19 21:00,マラソン,"ick, saki, hnm, shiho, miku(Ln), rin(Ln), len(Ln), luka(Ln), meiko(Ln), kaito(Ln)",unit,happy,365000811,220000811,51391865,11500000,1174755
+183,-,交わる色はあの日のままに,2025/10/21 15:00,2025/10/29 21:00,マラソン,"szk, airi, mnr, hrk, miku(MMJ), rin(MMJ), len(MMJ), luka(MMJ), meiko(MMJ), kaito(MMJ)",unit,mysterious,400001206,173191206,43511056,9314810,1077708
+184,-,Colors of Pure Sense,2025/10/31 15:00,2025/11/8 21:00,マラソン,"ena, knd, mfy, miku(25ji), rin(25ji), len(25ji), luka(25ji), meiko(25ji), kaito(25ji)",unit,pure,400000507,280000430,138846486,28000925,1262115
+185,-,超克のプロタゴニスタ,2025/11/10 15:00,2025/11/17 21:00,マラソン,"nene, emu, tks, rui, miku(WS), rin(WS), len(WS), luka(WS), meiko(WS), kaito(WS)",unit,cute,355000000,187200000,78360721,16720720,1000164
+186,-,第2回チアフルカーニバルイベントテストイベント,2025/11/18 15:00,2025/11/19 21:00,チアフルカーニバル,"knd, mnr, khn, ick, tks",mixed,happy,30681210,16165170,4398565,918235,221254
+187,-,Overcome one's limits,2025/11/20 15:00,2025/11/28 21:00,マラソン,"akt, khn, an, toya, miku(VBS), rin(VBS), len(VBS), luka(VBS), meiko(VBS), kaito(VBS)",unit,mysterious,400061112,320001112,103047065,22983723,1143200
+188,-,仰ぐ夜空に、星は紛れて,2025/11/30 15:00,2025/12/8 21:00,マラソン,"saki, ick, hnm, shiho, miku(Ln), rin(Ln), len(Ln), luka(Ln), meiko(Ln), kaito(Ln)",unit,cute,345000509,181102759,61000518,14107189,1040960
+189,-,ともに、トゥルールートを目指して,2025/12/10 15:00,2025/12/19 21:00,マラソン,"mfy, khn, luka, emu, ick",mixed,happy,320000127,200000000,45022222,8718965,1107323
+190,-,この物語は希望をのせて,2025/12/21 15:00,2025/12/29 21:00,マラソン,"hrk, airi, szk, mnr, miku(MMJ), rin(MMJ), len(MMJ), luka(MMJ), meiko(MMJ), kaito(MMJ)",unit,cool,380000000,230101010,78001227,12569468,1046939
+191,-,新年言祝ぐ、祈りの舞,2025/12/31 15:00,2026/1/9 21:00,マラソン,"mnr, toya, rin, tks, khn",mixed,cool,430000000,229998466,51430480,12439345,1516140
+192,-,覚めない幻想をノックして,2026/1/11 15:00,2026/1/19 21:00,マラソン,"ena, knd, mfy, miku(25ji), rin(25ji), len(25ji), luka(25ji), meiko(25ji), kaito(25ji)",unit,happy,400000210,220000210,75000025,18069348,1196814
+193,-,GO ALL OUT,2026/1/21 15:00,2026/1/29 21:00,マラソン,"akt, khn, an, toya, miku(VBS), rin(VBS), len(VBS), luka(VBS), meiko(VBS), kaito(VBS)",unit,pure,415251112,285052100,91705250,19996739,1066465
